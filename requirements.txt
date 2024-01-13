@@ -1,0 +1,10 @@
+dvc
+dvc_gdrive
+mlflow
+pandas
+scikit-learn
+scipy
+numpy
+xgboost
+tensorflow
+joblib
